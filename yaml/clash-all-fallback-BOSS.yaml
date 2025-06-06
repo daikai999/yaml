@@ -6,37 +6,7 @@
 
 proxy-providers:
 
-  火烧云:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连 
-    
-  冰云:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  小牛:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连    
-
-  硅谷:
+  SSRDOG:
     url: "机场订阅地址"
     type: http
     interval: 86400
@@ -46,37 +16,7 @@ proxy-providers:
       interval: 300
     proxy: 直连      
   
-  无界:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连   
-   
-  猫耳:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连   
-
-  快猫:
-    url: "机场订阅地址"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连 
-    
-  BestVPN:
+  硅谷:
     url: "机场订阅地址"
     type: http
     interval: 86400
@@ -86,7 +26,7 @@ proxy-providers:
       interval: 300
     proxy: 直连     
 
-  牛逼:
+  红杏:
     url: "机场订阅地址"
     type: http
     interval: 86400
